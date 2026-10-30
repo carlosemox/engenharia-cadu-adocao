@@ -129,3 +129,6 @@ Este complemento usa a [Engenharia Cadu](https://github.com/carlosemox/engenhari
 Codex coordena. Antigravity, Gemini e OpenCode participam somente quando há necessidade, disponibilidade e autorização. Astra econômico mantém o modelo autorizado, carrega contexto pertinente e mede custo por entrega aceita; não promete uma porcentagem de economia.
 
 **Estado da entrega:** biblioteca documental. Publicar este kit não reestruturou nenhum aplicativo, não instalou executores e não homologou autonomia. Exemplos são fictícios, templates são inativos e relatórios reais permanecem privados.
+
+## Continuidade, segurança e backup
+Consulte [Controles transversais](CONTROLES_TRANSVERSAIS.md). Após aprovar o plano, os lotes autorizados podem avançar sem nova colagem. O retrato inicial continua sujeito à sua revisão; backup, revisão e limites não são dispensados. [Ver organização na central](https://carlosemox.github.io/engenharia-cadu/guia/operacao/).

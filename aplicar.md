@@ -50,3 +50,6 @@ Use `24h.md` para preparar os próximos gates, sem iniciar a missão por consequ
 Saída: ADOTADO_NO_ESCOPO / PARCIAL / BLOQUEADO, plano e revisão aplicados, mapa antes/depois, evidências por lote, recursos criados, recuperação, testes NOT_RUN e próximos itens autorizados. Continue etapas independentes já autorizadas sem pedir confirmação a cada arquivo; pare nas decisões materiais e limites verdadeiros.
 
 [Entrada](read.md) · [Supabase](SUPABASE.md) · [Retomada](retomar.md) · [Plano](templates/PLANO_ADOCAO.md)
+
+## Política transversal da adoção
+Aplicar [CONTROLES_TRANSVERSAIS.md](CONTROLES_TRANSVERSAIS.md) na revisão fixada: continuidade somente dentro do plano autorizado, segurança e backup privado por projeto. O primeiro diagnóstico mantém a pausa para revisão do produto; a conexão Drive e o supervisor não são instalados por esta receita.

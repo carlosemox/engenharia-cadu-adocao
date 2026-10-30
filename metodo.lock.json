@@ -4,12 +4,34 @@
   "cadu": {
     "repository": "carlosemox/engenharia-cadu",
     "commit": "b22931d1be7a53f62092ecac16eba3a108420542",
-    "procedures": ["P06", "P08", "P10", "P11", "P12", "P14", "P17", "P18", "P20", "P21"]
+    "procedures": [
+      "P06",
+      "P08",
+      "P10",
+      "P11",
+      "P12",
+      "P14",
+      "P17",
+      "P18",
+      "P20",
+      "P21"
+    ]
   },
   "matheus": {
     "repository": "soumatheusgomes/vibe-coding-toolkit",
     "commit": "21b71b68679c11184f49c23168852014bf6dde8b",
     "procedure": "docs/prompts/12-existing-project-setup.md"
   },
-  "limits": "Referencias fixadas para procedencia; nao garantem compatibilidade de CLIs. APIs, planos, custos e comandos devem ser revalidados na versao do projeto antes de aplicar mudancas."
+  "limits": "Referencias fixadas para procedencia; nao garantem compatibilidade de CLIs. APIs, planos, custos e comandos devem ser revalidados na versao do projeto antes de aplicar mudancas.",
+  "organization_controls": {
+    "repository": "carlosemox/engenharia-cadu",
+    "commit": "0d01db8df3efc103ac586e2c4d830023b11931c7",
+    "automatic_update": false,
+    "scope": [
+      "continuity",
+      "security_review",
+      "drive_backup"
+    ],
+    "activation": "subject_to_project_scope_approval_and_runtime_verification"
+  }
 }

@@ -110,3 +110,6 @@ Apresente resultado, evidências, versão, limitações, decisões pendentes e p
 
 ## Referências desta biblioteca
 [Aplicar](aplicar.md) · [Supabase](SUPABASE.md) · [Retomar](retomar.md) · [24 horas](24h.md) · [Retrato](templates/RETRATO_DO_PROJETO.md) · [Fontes](FONTES.md)
+
+## Política transversal da adoção
+Aplicar [CONTROLES_TRANSVERSAIS.md](CONTROLES_TRANSVERSAIS.md) na revisão fixada: continuidade somente dentro do plano autorizado, segurança e backup privado por projeto. O primeiro diagnóstico mantém a pausa para revisão do produto; a conexão Drive e o supervisor não são instalados por esta receita.

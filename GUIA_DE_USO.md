@@ -190,3 +190,6 @@ A adoção complementa a [Engenharia Cadu principal](https://github.com/carlosem
 **Estado do material:** comandos documentados para uso nos ambientes autorizados. A publicação deste guia não executou diagnóstico em aplicativo, migrou banco, instalou agente ou iniciou missão prolongada. Consulte [verificações](validacao/RESULTADOS.md), [cenários de homologação](validacao/CASOS.md) e [fontes](FONTES.md).
 
 [Voltar ao início](README.md) · [Comando de análise](read.md) · [Aplicar](aplicar.md) · [Retomar](retomar.md) · [Preparar 24 horas](24h.md)
+
+## Continuidade, segurança e backup
+Consulte [Controles transversais](CONTROLES_TRANSVERSAIS.md). Após aprovar o plano, os lotes autorizados podem avançar sem nova colagem. O retrato inicial continua sujeito à sua revisão; backup, revisão e limites não são dispensados. [Ver organização na central](https://carlosemox.github.io/engenharia-cadu/guia/operacao/).

@@ -6,7 +6,7 @@
 
 **Codex principal · Astra econômico · projeto visível · reestruturação por lotes**
 
-[Começar a análise](read.md) · [Aplicar plano aprovado](aplicar.md) · [Retomar](retomar.md) · [Preparar 24 horas](24h.md)
+[Guia completo e comandos para copiar](GUIA_DE_USO.md) · [Começar a análise](read.md) · [Aplicar plano aprovado](aplicar.md) · [Retomar](retomar.md) · [Preparar 24 horas](24h.md)
 
 </div>
 
@@ -17,6 +17,8 @@
 Uma entrada específica para aplicativos que já estão em desenvolvimento. O Codex recupera o contexto acessível, reconcilia PRD, TRD e fluxos, mostra o estado encontrado e propõe a adoção da Engenharia Cadu. **Você vê e pode corrigir o entendimento antes da reestruturação.** Depois da aprovação, o agente executa apenas os lotes delimitados e demonstra o resultado.
 
 Este repositório distribui metodologia pública. Não recebe código, dados, segredos ou relatórios reais dos aplicativos. Não é um aplicativo-alvo, um agente instalado ou um supervisor de 24 horas.
+
+**[Abra o guia de uso com o passo a passo e todos os comandos de entrada](GUIA_DE_USO.md):** entender o projeto, revisar o plano, aplicar os lotes aprovados, retomar e preparar uma missão prolongada. Os procedimentos completos continuam nos arquivos correspondentes.
 
 ## 1. O comando para começar
 
@@ -105,6 +107,7 @@ Sem supervisor real, a saída correta é `RUNTIME_AUSENTE`/`NOT_STARTED` com pla
 
 | Arquivo | Função |
 |---|---|
+| [Guia de uso](GUIA_DE_USO.md) | Passo a passo, comandos copiáveis e resultados esperados de cada fase |
 | [read.md](read.md) | Comando completo de entendimento, apresentação e redesenho |
 | [aplicar.md](aplicar.md) | Preservação, correção, documentação, estrutura, integrações, CI e revisão |
 | [SUPABASE.md](SUPABASE.md) | Fronteiras de dados, identidade, RLS, migrations, backups e transição |

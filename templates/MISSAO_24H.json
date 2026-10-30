@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "template_only": true,
+  "enabled": false,
+  "status": "NOT_STARTED",
+  "project": null,
+  "target_root": null,
+  "baseline_revision": null,
+  "plan_id": null,
+  "plan_revision": null,
+  "approval_reference": null,
+  "main_executor": "codex",
+  "model_observed": null,
+  "collaborators_authorized": [],
+  "auth_mode_observed": null,
+  "supervisor": {
+    "identity": null,
+    "version": null,
+    "host": null,
+    "start_command_verified": null,
+    "stop_command_verified": null,
+    "state_location": null,
+    "validation_evidence": []
+  },
+  "window": {
+    "maximum_duration_hours": 24,
+    "start_at": null,
+    "expires_at": null
+  },
+  "limits": {
+    "currency": null,
+    "cost_ceiling": null,
+    "cost_measurement": "NOT_OBSERVED",
+    "maximum_model_calls": null,
+    "maximum_tasks": null,
+    "maximum_attempts_per_task": null,
+    "maximum_concurrency": 1
+  },
+  "eligible_task_ids": [],
+  "allowed_paths": [],
+  "allowed_tools_and_commands": [],
+  "authorized_external_effects": [],
+  "forbidden": [
+    "production_without_specific_approval",
+    "destructive_database_changes_without_specific_approval",
+    "silent_provider_model_auth_or_billing_change",
+    "unscoped_git_operations",
+    "invented_tasks_when_queue_is_empty",
+    "retrying_unknown_external_effect_without_reconciliation"
+  ],
+  "evidence": {
+    "local": [],
+    "ci_when_required": [],
+    "staging_when_required": [],
+    "exclusive_execution": [],
+    "checkpoint_resume": [],
+    "stop_and_expiration": [],
+    "budgets_and_attempt_limits": [],
+    "forbidden_action_block": [],
+    "uncertain_effect_reconciliation": []
+  },
+  "notes": "Template inativo. Null nao significa ilimitado. Preencher campos nao aprova a missao nem prova prontidao. Exigir decisao real, verificacoes e controles efetivos."
+}

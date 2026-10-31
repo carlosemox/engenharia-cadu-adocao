@@ -132,3 +132,9 @@ Codex coordena. Antigravity, Gemini e OpenCode participam somente quando há nec
 
 ## Continuidade, segurança e backup
 Consulte [Controles transversais](CONTROLES_TRANSVERSAIS.md). Após aprovar o plano, os lotes autorizados podem avançar sem nova colagem. O retrato inicial continua sujeito à sua revisão; backup, revisão e limites não são dispensados. [Ver organização na central](https://carlosemox.github.io/engenharia-cadu/guia/operacao/).
+
+## Estudos novos, comando único e fábrica — V2.3
+
+Para reconciliar um estudo anexado e assumir coordenação, use [assumir.md](assumir.md). Para corrigir e reorganizar uma aplicação, use [reestruturar.md](reestruturar.md). A entrada universal e a fábrica estão na revisão `context_factory` de `metodo.lock.json`; resolva-a antes de ler seus procedimentos.
+
+Aprovações existentes continuam válidas no escopo concedido. Não exigir nova aprovação ritual de lotes cobertos; mudança material e ações externas conservam alçadas próprias. Estudos e dados privados permanecem no aplicativo/destino privado, nunca nesta central pública.

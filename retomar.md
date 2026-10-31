@@ -13,3 +13,9 @@ Leia o plano, o registro de aprovação e o último checkpoint disponíveis. Use
 Sem ferramentas, entregue a análise documental e o que falta verificar. Não simule consultas, continuidade ou recuperação.
 
 [Entrada](read.md) · [Aplicar](aplicar.md) · [Prontidão prolongada](24h.md)
+
+## Estudos novos, comando único e fábrica — V2.3
+
+Para reconciliar um estudo anexado e assumir coordenação, use [assumir.md](assumir.md). Para corrigir e reorganizar uma aplicação, use [reestruturar.md](reestruturar.md). A entrada universal e a fábrica estão na revisão `context_factory` de `metodo.lock.json`; resolva-a antes de ler seus procedimentos.
+
+Aprovações existentes continuam válidas no escopo concedido. Não exigir nova aprovação ritual de lotes cobertos; mudança material e ações externas conservam alçadas próprias. Estudos e dados privados permanecem no aplicativo/destino privado, nunca nesta central pública.

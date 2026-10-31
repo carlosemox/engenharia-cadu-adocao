@@ -53,3 +53,9 @@ Saída: ADOTADO_NO_ESCOPO / PARCIAL / BLOQUEADO, plano e revisão aplicados, map
 
 ## Política transversal da adoção
 Aplicar [CONTROLES_TRANSVERSAIS.md](CONTROLES_TRANSVERSAIS.md) na revisão fixada: continuidade somente dentro do plano autorizado, segurança e backup privado por projeto. O primeiro diagnóstico mantém a pausa para revisão do produto; a conexão Drive e o supervisor não são instalados por esta receita.
+
+## Estudos novos, comando único e fábrica — V2.3
+
+Para reconciliar um estudo anexado e assumir coordenação, use [assumir.md](assumir.md). Para corrigir e reorganizar uma aplicação, use [reestruturar.md](reestruturar.md). A entrada universal e a fábrica estão na revisão `context_factory` de `metodo.lock.json`; resolva-a antes de ler seus procedimentos.
+
+Aprovações existentes continuam válidas no escopo concedido. Não exigir nova aprovação ritual de lotes cobertos; mudança material e ações externas conservam alçadas próprias. Estudos e dados privados permanecem no aplicativo/destino privado, nunca nesta central pública.

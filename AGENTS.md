@@ -12,3 +12,5 @@ Esta biblioteca distribui procedimentos; não é o aplicativo a reestruturar.
 - A receita de 24 horas não é um supervisor. Sem runtime, limites e testes, não declarar READY_UNATTENDED ou RUNNING.
 - Usar uma única revisão da biblioteca e as fontes fixadas em `metodo.lock.json`.
 - Ao editar o kit, conferir links locais e fronteiras de autorização; não simular testes dos agentes ou dos aplicativos.
+
+Entradas adicionais: `assumir.md` e `reestruturar.md`, pela revisão context_factory do lock. Preservar aprovações de lote existentes; os novos procedimentos não concedem acesso a aplicações não identificadas. Fábrica gera texto, não execução.

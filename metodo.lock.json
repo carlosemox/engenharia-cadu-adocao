@@ -1,9 +1,9 @@
 {
-  "kit_version": "1.0.0",
+  "kit_version": "2.3.0",
   "automatic_update": false,
   "cadu": {
     "repository": "carlosemox/engenharia-cadu",
-    "commit": "b22931d1be7a53f62092ecac16eba3a108420542",
+    "commit": "34cb6d13348a140d0adf6e87069f29fff1ed4c2c",
     "procedures": [
       "P06",
       "P08",
@@ -25,7 +25,7 @@
   "limits": "Referencias fixadas para procedencia; nao garantem compatibilidade de CLIs. APIs, planos, custos e comandos devem ser revalidados na versao do projeto antes de aplicar mudancas.",
   "organization_controls": {
     "repository": "carlosemox/engenharia-cadu",
-    "commit": "0d01db8df3efc103ac586e2c4d830023b11931c7",
+    "commit": "34cb6d13348a140d0adf6e87069f29fff1ed4c2c",
     "automatic_update": false,
     "scope": [
       "continuity",
@@ -33,5 +33,20 @@
       "drive_backup"
     ],
     "activation": "subject_to_project_scope_approval_and_runtime_verification"
+  },
+  "revision_history": [
+    {
+      "kit_version": "1.0.0",
+      "cadu_commit": "b22931d1be7a53f62092ecac16eba3a108420542",
+      "organization_controls_commit": "0d01db8df3efc103ac586e2c4d830023b11931c7",
+      "status": "historical_not_active"
+    }
+  ],
+  "context_factory": {
+    "repository": "carlosemox/engenharia-cadu",
+    "commit": "34cb6d13348a140d0adf6e87069f29fff1ed4c2c",
+    "automatic_update": false,
+    "entry": "comando.md",
+    "routes": "fabrica/rotas.json"
   }
 }

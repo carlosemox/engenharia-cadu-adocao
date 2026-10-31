@@ -36,3 +36,7 @@ Não foram acessados bancos, credenciais, código privado dos aplicativos ou con
 
 ## Licenciamento
 Textos novos são material da Engenharia Cadu. A licença geral de redistribuição do material próprio permanece sem nova concessão nesta entrega; publicidade não significa licença automática para todos os componentes. Referências de terceiros mantêm seus termos. O aviso MIT do toolkit está em [fontes/LICENSE_MATHEUS.txt](fontes/LICENSE_MATHEUS.txt). Não incorporar skills restritas apenas porque foram recebidas num ZIP.
+
+## Versão ativa 2.3
+
+A referência operacional da Engenharia Cadu é o commit `34cb6d13348a140d0adf6e87069f29fff1ed4c2c`, fixado em metodo.lock.json para procedimentos, controles e fábrica. Referências anteriores deste documento são históricas; não devem substituir o lock ativo. A referência Matheus mantém sua finalidade e versão próprias.
